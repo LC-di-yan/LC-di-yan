@@ -1,18 +1,21 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=600&color=38BDF8&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+LC-di-yan;AI+%2F+Full-Stack+Developer;Multi-Agent+Systems+%26+LLM+Apps" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  👋 你好，欢迎来到我的 GitHub！
-  <br/>
-  <em>专注于大模型应用 · 多智能体系统 · 全栈开发</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=600&color=38BDF8&center=true&vCenter=true&width=680&lines=Hi+%F0%9F%91%8B%2C+I%27m+LC-di-yan;AI+%2F+Full-Stack+Developer;Multi-Agent+Systems+%26+LLM+Apps" alt="Typing SVG" />
   <br/><br/>
   <img src="https://img.shields.io/github/followers/LC-di-yan?style=social" alt="Followers" />
   &nbsp;
   <img src="https://img.shields.io/github/stars/LC-di-yan?style=social" alt="Total Stars" />
+  &nbsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LC-di-yan.LC-di-yan" alt="Visitors" />
 </div>
 
-<br/>
+---
+
+## 🧑‍💻 About Me
+
+- 🔭 **专注方向**：大模型应用 · 多智能体系统 · 全栈开发
+- 🚀 **代表作品**：多智能体旅行规划、企业级智能客服、AI 视频工具、伙伴社交平台
+- 🌱 **正在探索**：Agentic Infra · RAG 检索增强 · LLM 工程化
+- 💡 **技术信条**：用 Agent 重构复杂业务，让大模型真正落地
 
 ## 🛠️ 技术栈
 
@@ -45,14 +48,20 @@
 
 ## 🚀 代表项目
 
-| 项目 | 说明 | 统计 |
+| 项目 | 简介 | 统计 |
 | --- | --- | --- |
 | 🧭 [Lincan-Travel-Assistant-Agent](https://github.com/LC-di-yan/Lincan-Travel-Assistant-Agent) | 多智能体旅行规划系统（AgentScope + Plan-and-Execute + RAG） | ![Stars](https://img.shields.io/github/stars/LC-di-yan/Lincan-Travel-Assistant-Agent?style=flat-square) ![Lang](https://img.shields.io/github/languages/top/LC-di-yan/Lincan-Travel-Assistant-Agent?style=flat-square) |
 | 💬 [HeteroAgent](https://github.com/LC-di-yan/HeteroAgent) | 金融/电商场景企业级智能客服多 Agent 系统 | ![Stars](https://img.shields.io/github/stars/LC-di-yan/HeteroAgent?style=flat-square) ![Lang](https://img.shields.io/github/languages/top/LC-di-yan/HeteroAgent?style=flat-square) |
 | 🎬 [VidDownAI](https://github.com/LC-di-yan/universal-video-downloader) | 全栈视频解析下载工具（Vue 3 + FastAPI + yt-dlp + DeepSeek） | ![Stars](https://img.shields.io/github/stars/LC-di-yan/universal-video-downloader?style=flat-square) ![Lang](https://img.shields.io/github/languages/top/LC-di-yan/universal-video-downloader?style=flat-square) |
-| ☁️ [Cloud-Partner-Platform](https://github.com/LC-di-yan/Cloud-Partner-Platform) | 云聚伙伴平台（Spring Boot 社交平台：用户管理、内容发布、ES 搜索、微信集成） | ![Stars](https://img.shields.io/github/stars/LC-di-yan/Cloud-Partner-Platform?style=flat-square) ![Lang](https://img.shields.io/github/languages/top/LC-di-yan/Cloud-Partner-Platform?style=flat-square) |
+| ☁️ [Cloud-Partner-Platform](https://github.com/LC-di-yan/Cloud-Partner-Platform) | 云聚伙伴平台（Spring Boot：用户管理、内容发布、ES 搜索、微信集成） | ![Stars](https://img.shields.io/github/stars/LC-di-yan/Cloud-Partner-Platform?style=flat-square) ![Lang](https://img.shields.io/github/languages/top/LC-di-yan/Cloud-Partner-Platform?style=flat-square) |
+| 🎙️ [AutoSubGen](https://github.com/LC-di-yan/AutoSubGen) | 视频字幕生成系统（Whisper 本地/云端双模式） | ![Stars](https://img.shields.io/github/stars/LC-di-yan/AutoSubGen?style=flat-square) ![Lang](https://img.shields.io/github/languages/top/LC-di-yan/AutoSubGen?style=flat-square) |
+| 🧪 [material-science-discovery-agent](https://github.com/LC-di-yan/material-science-discovery-agent) | 材料科学文献驱动的 AI 科研发现 Agent | ![Stars](https://img.shields.io/github/stars/LC-di-yan/material-science-discovery-agent?style=flat-square) ![Lang](https://img.shields.io/github/languages/top/LC-di-yan/material-science-discovery-agent?style=flat-square) |
 
 ## 📊 GitHub 统计
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=LC-di-yan&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/LC-di-yan?style=social" alt="Followers" />
@@ -60,4 +69,10 @@
   <img src="https://img.shields.io/github/stars/LC-di-yan?style=social" alt="Total Stars" />
   &nbsp;
   <img src="https://img.shields.io/github/sponsors/LC-di-yan?style=social" alt="Sponsors" />
+</div>
+
+---
+
+<div align="center">
+  <sub>⭐ 如果我的项目对你有帮助，欢迎 Star 支持～</sub>
 </div>
