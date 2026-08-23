@@ -3,9 +3,13 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/> 你好，欢迎来到我的 GitHub！
+  👋 你好，欢迎来到我的 GitHub！
   <br/>
   <em>专注于大模型应用 · 多智能体系统 · 全栈开发</em>
+  <br/><br/>
+  <img src="https://img.shields.io/github/followers/LC-di-yan?style=social" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/LC-di-yan?style=social" alt="Total Stars" />
 </div>
 
 <br/>
@@ -41,29 +45,19 @@
 
 ## 🚀 代表项目
 
-<div align="center">
-  <a href="https://github.com/LC-di-yan/Lincan-Travel-Assistant-Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LC-di-yan&repo=Lincan-Travel-Assistant-Agent&theme=tokyonight&show_owner=true" />
-  </a>
-  <a href="https://github.com/LC-di-yan/HeteroAgent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LC-di-yan&repo=HeteroAgent&theme=tokyonight&show_owner=true" />
-  </a>
-  <a href="https://github.com/LC-di-yan/universal-video-downloader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LC-di-yan&repo=universal-video-downloader&theme=tokyonight&show_owner=true" />
-  </a>
-  <a href="https://github.com/LC-di-yan/Cloud-Partner-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LC-di-yan&repo=Cloud-Partner-Platform&theme=tokyonight&show_owner=true" />
-  </a>
-</div>
-
-- 🧭 **Lincan-Travel-Assistant-Agent** — 多智能体旅行规划系统（AgentScope + Plan-and-Execute）
-- 💬 **HeteroAgent** — 金融/电商场景企业级智能客服多 Agent 系统
-- 🎬 **VidDownAI** — 全栈视频解析下载工具（Vue 3 + FastAPI + yt-dlp + DeepSeek）
-- ☁️ **Cloud-Partner-Platform** — 云聚伙伴平台（Spring Boot 社交平台：用户管理、内容发布、ES 搜索、微信集成）
+| 项目 | 说明 | 统计 |
+| --- | --- | --- |
+| 🧭 [Lincan-Travel-Assistant-Agent](https://github.com/LC-di-yan/Lincan-Travel-Assistant-Agent) | 多智能体旅行规划系统（AgentScope + Plan-and-Execute + RAG） | ![Stars](https://img.shields.io/github/stars/LC-di-yan/Lincan-Travel-Assistant-Agent?style=flat-square) ![Lang](https://img.shields.io/github/languages/top/LC-di-yan/Lincan-Travel-Assistant-Agent?style=flat-square) |
+| 💬 [HeteroAgent](https://github.com/LC-di-yan/HeteroAgent) | 金融/电商场景企业级智能客服多 Agent 系统 | ![Stars](https://img.shields.io/github/stars/LC-di-yan/HeteroAgent?style=flat-square) ![Lang](https://img.shields.io/github/languages/top/LC-di-yan/HeteroAgent?style=flat-square) |
+| 🎬 [VidDownAI](https://github.com/LC-di-yan/universal-video-downloader) | 全栈视频解析下载工具（Vue 3 + FastAPI + yt-dlp + DeepSeek） | ![Stars](https://img.shields.io/github/stars/LC-di-yan/universal-video-downloader?style=flat-square) ![Lang](https://img.shields.io/github/languages/top/LC-di-yan/universal-video-downloader?style=flat-square) |
+| ☁️ [Cloud-Partner-Platform](https://github.com/LC-di-yan/Cloud-Partner-Platform) | 云聚伙伴平台（Spring Boot 社交平台：用户管理、内容发布、ES 搜索、微信集成） | ![Stars](https://img.shields.io/github/stars/LC-di-yan/Cloud-Partner-Platform?style=flat-square) ![Lang](https://img.shields.io/github/languages/top/LC-di-yan/Cloud-Partner-Platform?style=flat-square) |
 
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LC-di-yan&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LC-di-yan&layout=compact&theme=tokyonight" />
+  <img src="https://img.shields.io/github/followers/LC-di-yan?style=social" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/LC-di-yan?style=social" alt="Total Stars" />
+  &nbsp;
+  <img src="https://img.shields.io/github/sponsors/LC-di-yan?style=social" alt="Sponsors" />
 </div>
