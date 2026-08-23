@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=600&color=38BDF8&center=true&vCenter=true&width=680&lines=Hi+%F0%9F%91%8B%2C+I%27m+LC-di-yan;AI+%2F+Full-Stack+Developer;Multi-Agent+Systems+%26+LLM+Apps" alt="Typing SVG" />
-  <br/><br/>
-  <img src="https://img.shields.io/github/followers/LC-di-yan?style=social" alt="Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/LC-di-yan?style=social" alt="Total Stars" />
-  &nbsp;
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LC-di-yan.LC-di-yan" alt="Visitors" />
+</div>
+
+<div align="center">
+  👋 你好，欢迎来到我的 GitHub！
+  <br/>
+  <em>专注于大模型应用 · 多智能体系统 · 全栈开发</em>
 </div>
 
 ---
@@ -60,15 +60,11 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=LC-di-yan&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://img.shields.io/github/followers/LC-di-yan?style=social" alt="Followers" />
   &nbsp;
   <img src="https://img.shields.io/github/stars/LC-di-yan?style=social" alt="Total Stars" />
   &nbsp;
-  <img src="https://img.shields.io/github/sponsors/LC-di-yan?style=social" alt="Sponsors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LC-di-yan.LC-di-yan" alt="Visitors" />
 </div>
 
 ---
