@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/LC-di-yan?label=Followers&style=flat-square&color=38BDF8&labelColor=0F172A" alt="Followers" />
   <img src="https://img.shields.io/github/stars/LC-di-yan?label=Stars&style=flat-square&color=818CF8&labelColor=0F172A" alt="Stars" />
-  <img src="https://img.shields.io/github/languages/top/LC-di-yan/Lincan-Travel-Assistant-Agent?label=Top%20Lang&style=flat-square&labelColor=0F172A" alt="Top language" />
+  <img src="https://img.shields.io/github/last-commit/LC-di-yan/Lincan-Travel-Assistant-Agent?label=Last%20Commit&style=flat-square&color=22D3EE&labelColor=0F172A" alt="Last commit" />
   <img src="https://komarev.com/ghpvc/?username=LC-di-yan&style=flat-square&color=38BDF8&label=Visitors" alt="Visitors" />
 </p>
 
