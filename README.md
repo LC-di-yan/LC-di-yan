@@ -2,6 +2,10 @@
   <img src="./assets/banner.svg" alt="LC-di-yan — AI 应用 · 多智能体系统 · 全栈开发" width="100%" />
 </div>
 
+<div align="center">
+  <img src="./assets/status-bar.svg" alt="focus · stack · building" width="100%" />
+</div>
+
 <p align="center">
   你好，欢迎来到我的 GitHub 👋
   <br/>
