@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="LC-di-yan — AI 应用 · 多智能体系统 · 全栈开发" width="100%" />
+  <img src="./assets/banner-v2.svg" alt="LC-di-yan — AI 应用 · 多智能体系统 · 全栈开发" width="100%" />
 </div>
 
 <div align="center">
@@ -7,16 +7,14 @@
 </div>
 
 <p align="center">
-  你好，欢迎来到我的 GitHub 👋
-  <br/>
-  <em>把大模型和多智能体真正落到业务里。</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=680&lines=Hi%2C+I%27m+LC-di-yan+%F0%9F%91%8B;AI+%E5%BA%94%E7%94%A8+%C2%B7+%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E7%B3%BB%E7%BB%9F;%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91+%C2%B7+RaaS+%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E7%BB%B4" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/LC-di-yan"><img src="https://img.shields.io/badge/GitHub-@LC--di--yan-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://img.shields.io/github/followers/LC-di-yan?label=Followers&style=flat-square&color=38BDF8&labelColor=0F172A" alt="Followers" />
   <img src="https://img.shields.io/github/stars/LC-di-yan?label=Stars&style=flat-square&color=818CF8&labelColor=0F172A" alt="Stars" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LC-di-yan.LC-di-yan&left_color=0F172A&right_color=38BDF8&left_text=Visitors" alt="Visitors" />
+  <img src="https://img.shields.io/github/languages/top/LC-di-yan/Lincan-Travel-Assistant-Agent?label=Top%20Lang&style=flat-square&labelColor=0F172A" alt="Top language" />
+  <img src="https://komarev.com/ghpvc/?username=LC-di-yan&style=flat-square&color=38BDF8&label=Visitors" alt="Visitors" />
 </p>
 
 ## 关于我
@@ -28,30 +26,21 @@
 
 ## 技术栈
 
-**语言与框架**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,ts,js,fastapi,spring,react,vue,mysql,redis,elasticsearch,docker,git,linux&theme=dark&perline=14" alt="Tech stack" />
+  <br/><br/>
+  <img src="https://custom-icon-badges.demolab.com/badge/AgentScope-FF6B6B?style=for-the-badge" alt="AgentScope" />
+  <img src="https://custom-icon-badges.demolab.com/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
+  <img src="https://custom-icon-badges.demolab.com/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
+  <img src="https://custom-icon-badges.demolab.com/badge/DeepSeek-4D6BFE?style=for-the-badge&logoColor=white" alt="DeepSeek" />
+  <img src="https://custom-icon-badges.demolab.com/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+</div>
 
-**AI / Agent**  
-![AgentScope](https://img.shields.io/badge/AgentScope-FF6B6B?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+## GitHub 统计
 
-**数据与基础设施**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581B6?style=flat-square&logo=neo4j&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LC-di-yan&theme=tokyonight&hide_border=true&date_format=Y.m.d" alt="GitHub streak" />
+</div>
 
 ## 精选项目
 
